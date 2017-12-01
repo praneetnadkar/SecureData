@@ -23,3 +23,5 @@ To do this, I am using an API Bouncy Castle. It is simply an amazing work by the
 In C#, I have created a console app, and installed bouncy castle in the project. To install the nuget package, use Install-Package BouncyCastle -Version 1.8.1
 
 Once this is installed, you can use the code to create a pfx file or a cer file.
+
+Here please note that, if we are using this encrypted data to send over the network, and this data is copied by unknown party, it wil not be decrypted. The data can be decrypted only by the private key which will be accessed from pfx file created
