@@ -1,0 +1,12 @@
+C:\Users\kanaka\source\repos\SecureData\Logger\bin\Debug\Logger.dll
+C:\Users\kanaka\source\repos\SecureData\Logger\bin\Debug\Logger.pdb
+C:\Users\kanaka\source\repos\SecureData\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\kanaka\source\repos\SecureData\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\kanaka\source\repos\SecureData\Logger\obj\Debug\Logger.dll
+C:\Users\kanaka\source\repos\SecureData\Logger\obj\Debug\Logger.pdb
+C:\Users\kanaka\Downloads\SecureData\Logger\bin\Debug\Logger.dll
+C:\Users\kanaka\Downloads\SecureData\Logger\bin\Debug\Logger.pdb
+C:\Users\kanaka\Downloads\SecureData\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\kanaka\Downloads\SecureData\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\kanaka\Downloads\SecureData\Logger\obj\Debug\Logger.dll
+C:\Users\kanaka\Downloads\SecureData\Logger\obj\Debug\Logger.pdb

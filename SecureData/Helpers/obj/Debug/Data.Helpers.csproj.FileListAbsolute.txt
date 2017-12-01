@@ -1,0 +1,16 @@
+C:\Users\kanaka\source\repos\SecureData\Helpers\bin\Debug\Helpers.dll
+C:\Users\kanaka\source\repos\SecureData\Helpers\bin\Debug\Helpers.pdb
+C:\Users\kanaka\source\repos\SecureData\Helpers\bin\Debug\Logger.dll
+C:\Users\kanaka\source\repos\SecureData\Helpers\bin\Debug\Logger.pdb
+C:\Users\kanaka\source\repos\SecureData\Helpers\obj\Debug\Data.Helpers.csprojResolveAssemblyReference.cache
+C:\Users\kanaka\source\repos\SecureData\Helpers\obj\Debug\Data.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\kanaka\source\repos\SecureData\Helpers\obj\Debug\Helpers.dll
+C:\Users\kanaka\source\repos\SecureData\Helpers\obj\Debug\Helpers.pdb
+C:\Users\kanaka\Downloads\SecureData\Helpers\bin\Debug\Helpers.dll
+C:\Users\kanaka\Downloads\SecureData\Helpers\bin\Debug\Helpers.pdb
+C:\Users\kanaka\Downloads\SecureData\Helpers\bin\Debug\Logger.dll
+C:\Users\kanaka\Downloads\SecureData\Helpers\bin\Debug\Logger.pdb
+C:\Users\kanaka\Downloads\SecureData\Helpers\obj\Debug\Data.Helpers.csprojResolveAssemblyReference.cache
+C:\Users\kanaka\Downloads\SecureData\Helpers\obj\Debug\Data.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\kanaka\Downloads\SecureData\Helpers\obj\Debug\Helpers.dll
+C:\Users\kanaka\Downloads\SecureData\Helpers\obj\Debug\Helpers.pdb
